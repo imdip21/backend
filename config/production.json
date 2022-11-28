@@ -1,0 +1,6 @@
+{
+  "name": "Prod start",
+  "mail": {
+    "host": "Prod-mail-server"
+  }
+}
